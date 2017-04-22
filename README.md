@@ -1,5 +1,6 @@
 # Framework and utilities for dart
 
+* https://pub.dartlang.org/packages/angel_common (Full-featured server framework with authentication, WebSockets, security, etc.)
 * https://pub.dartlang.org/packages/redstone (Micro framework influenced by flask)
 * https://pub.dartlang.org/packages/postgresql (PostgreSQL database driver for Dart)
 * https://pub.dartlang.org/packages/trestle (ORM)
